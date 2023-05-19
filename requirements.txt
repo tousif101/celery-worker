@@ -1,0 +1,7 @@
+openai
+supabase
+uuid
+redis
+python-dotenv
+celery
+tiktoken
